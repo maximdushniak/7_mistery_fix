@@ -17,6 +17,6 @@ quadratic_equation.**getroots**(a, b, c)
 
     Использование:
 
-    '''>>>import quadratic_equation
+    '>>>import quadratic_equation
     >>>roots = get_roots(1, 5, 3)
-    (-4.302775637731995, -0.6972243622680054)'''
+    (-4.302775637731995, -0.6972243622680054)'
